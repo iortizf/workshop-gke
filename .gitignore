@@ -1,0 +1,80 @@
+*#
+*.iml
+*.ipr
+*.iws
+*.jar
+*.sw?
+*~
+.#*
+.*.md.html
+.DS_Store
+.classpath
+.factorypath
+.gradle
+.idea
+.metadata
+.project
+.recommenders
+.settings
+.springBeans
+/build
+/code
+MANIFEST.MF
+_site/
+activemq-data
+bin
+build
+build.log
+dependency-reduced-pom.xml
+dump.rdb
+interpolated*.xml
+lib/
+manifest.yml
+overridedb.*
+settings.xml
+target
+transaction-logs
+.flattened-pom.xml
+secrets.yml
+.gradletasknamecache
+.sts4-cache
+
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+
+# System Files
+.DS_Store
+Thumbs.db

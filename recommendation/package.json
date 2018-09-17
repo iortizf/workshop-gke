@@ -1,0 +1,17 @@
+{
+  "name": "recommendation",
+  "version": "1.0.0",
+  "description": "Recommends other products based on what's given in the cart.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Israel Ortiz",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "request": "^2.88.0"
+  }
+}
